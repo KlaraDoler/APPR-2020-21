@@ -5,10 +5,24 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/KlaraDoler/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/KlaraDoler/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+# Analiza bolniškega staleža v Sloveniji. 
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Raziskala bom letni bolniški stalež v Sloveniji glede na starost, spol in statistično regijo. Pogledala bom skupine bolezni, gospodarske dejavnosti ter razloge za bolniško odsotnost.
+
+Za glavni vir podatkov bom imela Nacionalni inštitut za javno zdravje NIJZ: https://podatki.nijz.si/pxweb/sl/NIJZ%20podatkovni%20portal/?px_language=sl&px_db=NIJZ+podatkovni+portal&rxid=654d1805-716b-4850-9b81-8ba313857a41, kjer so podatki v obliki HTML, CSV in XLSX.
+
+TABELE:
+
+Tabela 1: Kazalniki bolniškega staleža po starosti: Kazalniki, Leto, Število primerov
+
+Tabela 2: Kazalniki po razlogih bolniškega staleža: Razlogi, Kazalniki, Leto, Število primerov
+
+Tabela 3: Kazalniki bolniškega staleža po statističnih regijah: Regija, Kazalniki, Leto, Število primerov
+
+Tabela 4: Izgubljeni koledarski dnevi po gospodarskih dejavnosti: Gospodarska dejavnost, Kazalniki, Leto, Število primerov
+
+
+Z analizo želim ugotoviti, v katerih regijah in gospodarskih dejavnosti prihaja do največje odsotnosti od dela, ter kaj so glavni razlogi zanjo.
 
 ## Program
 
