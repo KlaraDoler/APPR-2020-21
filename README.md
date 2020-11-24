@@ -15,7 +15,7 @@ Za glavni vir podatkov bom imela Nacionalni inštitut za javno zdravje NIJZ: htt
 TABELE:
 
 Tabela 1: Kazalniki bolniškega staleža po starosti: 
-\n Vrstice: Leto, Starost
+\n Vrstice: Leto, Starost\n 
 \n Stoplci: Kazalniki
 
 Tabela 2: Kazalniki po razlogih bolniškega staleža:
