@@ -14,21 +14,21 @@ Za glavni vir podatkov bom imela Nacionalni inštitut za javno zdravje NIJZ: htt
 
 TABELE:
 
-Tabela 1: Kazalniki bolniškega staleža po starosti: 
-\n Vrstice: Leto, Starost\n 
-\n Stoplci: Kazalniki
+Tabela 1: Kazalniki bolniškega staleža po starosti: \
+Vrstice: Leto, Starost\
+Stoplci: Kazalniki
 
-Tabela 2: Kazalniki po razlogih bolniškega staleža:
-\n Vrstice: Leto, Razlogi
-\n Stoplci: Kazalniki
+Tabela 2: Kazalniki po razlogih bolniškega staleža:\
+Vrstice: Leto, Razlogi\
+Stoplci: Kazalniki
 
-Tabela 3: Kazalniki bolniškega staleža po statističnih regijah:
-\n Vrstice: Leto, Regija
-\n Stoplci: Kazalniki
+Tabela 3: Kazalniki bolniškega staleža po statističnih regijah:\
+Vrstice: Leto, Regija\
+Stoplci: Kazalniki
 
-Tabela 4: Izgubljeni koledarski dnevi po gospodarskih dejavnosti: 
-\n Vrstice: Leto, Gospodarska dejavnost
-\n Stoplci: Kazalniki
+Tabela 4: Izgubljeni koledarski dnevi po gospodarskih dejavnosti: \
+Vrstice: Leto, Gospodarska dejavnost\
+Stoplci: Kazalniki
 
 
 
