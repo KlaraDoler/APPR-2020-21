@@ -7,22 +7,31 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 # Analiza bolniškega staleža v Sloveniji. 
 
-Raziskala bom letni bolniški stalež v Sloveniji glede na starost, spol in statistično regijo. Pogledala bom skupine bolezni, gospodarske dejavnosti ter razloge za bolniško odsotnost.
+Raziskala bom letni bolniški stalež v Sloveniji glede na starost, razloge odsotnosti in statistično regijo. Pogledala bom skupine bolezni, gospodarske dejavnosti ter razloge za bolniško odsotnost. Poskusila bom najti povezavo med gospodarsko dejavnostjo in odsotnostjo od dela (na primer, v gospodarskih dejavnostih, kjer pride do več poškodb, je več primerov odsotnosti), starostjo ter v katerih regijah in zakaj je več primerov bolniške odsotnosti.
 
 Za glavni vir podatkov bom imela Nacionalni inštitut za javno zdravje NIJZ: https://podatki.nijz.si/pxweb/sl/NIJZ%20podatkovni%20portal/?px_language=sl&px_db=NIJZ+podatkovni+portal&rxid=654d1805-716b-4850-9b81-8ba313857a41, kjer so podatki v obliki HTML, CSV in XLSX.
 
+
 TABELE:
 
-Tabela 1: Kazalniki bolniškega staleža po starosti: Kazalniki, Leto, Število primerov
+Tabela 1: Kazalniki bolniškega staleža po starosti: 
+Vrstice: Leto, Starost
+Stoplci: Kazalniki
 
-Tabela 2: Kazalniki po razlogih bolniškega staleža: Razlogi, Kazalniki, Leto, Število primerov
+Tabela 2: Kazalniki po razlogih bolniškega staleža:
+Vrstice: Leto, Razlogi
+Stoplci: Kazalniki
 
-Tabela 3: Kazalniki bolniškega staleža po statističnih regijah: Regija, Kazalniki, Leto, Število primerov
+Tabela 3: Kazalniki bolniškega staleža po statističnih regijah:
+Vrstice: Leto, Regija
+Stoplci: Kazalniki
 
-Tabela 4: Izgubljeni koledarski dnevi po gospodarskih dejavnosti: Gospodarska dejavnost, Kazalniki, Leto, Število primerov
+Tabela 4: Izgubljeni koledarski dnevi po gospodarskih dejavnosti: 
+Vrstice: Leto, Gospodarska dejavnost
+Stoplci: Kazalniki
 
 
-Z analizo želim ugotoviti, v katerih regijah in gospodarskih dejavnosti prihaja do največje odsotnosti od dela, ter kaj so glavni razlogi zanjo.
+
 
 ## Program
 
