@@ -1,0 +1,1358 @@
+"4: Kazalniki bolniškega staleža po spolu in gospodarskih dejavnostih (SKD), Slovenija, letno po spremenljivkah: Leto, Spol, Gospodarske dejavnosti po SKD in Kazalnik",,,,,,,
+,,,,,,,
+,,Primeri,Koledarski dnevi,Odstotek BS (% BS),Izgubljeni koledarski dnevi na zaposlenega (IO),Število primerov na 100 zaposlenih (IF),Povpreèno trajanje ene odsotnosti (R)
+2008,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",6990,236745,4,13,38,34
+,B RUDARSTVO,2753,70847,6,20,79,26
+,C PREDELOVALNE DEJAVNOSTI,225000,4301692,5,20,102,19
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",6510,107461,4,14,86,17
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",7176,154896,5,17,80,22
+,F GRADBENIŠTVO,45621,1045411,3,12,51,23
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",80455,1595509,4,13,67,20
+,H PROMET IN SKLADIŠÈENJE,31055,653020,4,13,62,21
+,I GOSTINSTVO,18122,468129,4,15,56,26
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,16781,209126,3,9,76,13
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,27140,339961,4,13,107,13
+,L POSLOVANJE Z NEPREMIÈNINAMI,2260,45136,3,11,57,20
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",24720,392896,2,9,54,16
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,21038,445274,5,17,81,21
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",69419,886467,5,17,130,13
+,P IZOBRAŽEVANJE,65616,888437,4,14,101,14
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,55347,1007415,5,19,104,18
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",9729,160626,3,11,66,17
+,S DRUGE DEJAVNOSTI,6172,142835,3,11,49,23
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,5193,190073,3,12,33,37
+,A02 Gozdarstvo,1658,42615,5,18,68,26
+,A03 Ribištvo in gojenje vodnih organizmov,139,4057,5,18,61,29
+,B05 Pridobivanje premoga,1625,48976,6,23,78,30
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,4,29,1,3,36,7
+,B08 Pridobivanje rudnin in kamnin,929,19793,4,16,76,21
+,B09 Storitve za rudarstvo,195,2049,4,15,142,11
+,C10 Proizvodnja živil,12950,299829,6,21,91,23
+,C11 Proizvodnja pijaè,2029,42050,6,23,109,21
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,9240,189810,7,26,128,21
+,C14 Proizvodnja oblaèil,13347,251333,8,27,145,19
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",6010,111305,6,24,127,19
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",10608,228819,6,21,98,22
+,C17 Proizvodnja papirja in izdelkov iz papirja,4914,91692,5,19,102,19
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,4251,93508,4,16,73,22
+,C19 Proizvodnja koksa in naftnih derivatov,63,1141,4,13,74,18
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",7241,149907,5,20,95,21
+,C21 Proizvodnja farmacevtskih surovin in preparatov,5967,95470,4,16,100,16
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,11936,236530,5,18,91,20
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,9230,199921,6,22,101,22
+,C24 Proizvodnja kovin,9899,190730,6,21,106,19
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",31940,615823,5,17,88,19
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",12864,181640,5,18,126,14
+,C27 Proizvodnja elektriènih naprav,24127,432937,6,20,114,18
+,C28 Proizvodnja drugih strojev in naprav,15229,274114,5,17,94,18
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",15171,267642,5,20,111,18
+,C30 Proizvodnja drugih vozil in plovil,3341,55906,6,21,125,17
+,C31 Proizvodnja pohištva,10291,220862,6,21,98,22
+,C32 Druge raznovrstne predelovalne dejavnosti,3398,56354,5,18,110,17
+,C33 Popravila in montaža strojev in naprav,954,14369,2,8,51,15
+,"D35 Oskrba z elektrièno energijo, plinom in paro",6510,107461,4,14,86,17
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3578,68037,4,16,84,19
+,E37 Ravnanje z odplakami,276,7529,7,24,89,27
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",3232,75408,5,18,76,23
+,E39 Saniranje okolja in drugo ravnanje z odpadki,90,3922,8,28,64,44
+,F41 Gradnja stavb,19534,449192,3,12,50,23
+,F42 Gradnja inženirskih objektov,9137,186875,5,17,84,21
+,F43 Specializirana gradbena dela,16950,409344,3,10,43,24
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,8838,157924,3,10,58,18
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",27821,492217,3,11,59,18
+,"G47 Trgovina na drobno, razen z motornimi vozili",43796,945368,5,17,77,22
+,"H49 Kopenski promet, cevovodni transport",13619,345146,3,11,43,25
+,H50 Vodni promet,244,2774,3,10,84,11
+,H51 Zraèni promet,804,11695,4,13,90,15
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,7842,140294,4,14,79,18
+,H53 Poštna in kurirska dejavnost,8546,153111,5,20,110,18
+,I55 Gostinske nastanitvene dejavnosti,7414,182653,5,19,78,25
+,I56 Dejavnost strežbe jedi in pijaè,10708,285476,4,13,47,27
+,J58 Založništvo,2923,35874,3,10,84,12
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",459,6710,2,7,47,15
+,J60 Radijska in televizijska dejavnost,2022,32305,3,12,75,16
+,J61 Telekomunikacijske dejavnosti,4877,59185,3,12,96,12
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",5116,58917,2,7,65,12
+,J63 Druge informacijske dejavnosti,1384,16135,2,8,72,12
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",18058,215764,4,13,112,12
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",7187,95159,4,15,113,13
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,1895,29038,3,10,65,15
+,L68 Poslovanje z nepremièninami,2260,45136,3,11,57,20
+,M69 Pravne in raèunovodske dejavnosti,4776,93782,3,10,49,20
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",4277,72569,2,9,50,17
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",8762,131290,2,8,54,15
+,M72 Znanstvena raziskovalna in razvojna dejavnost,3736,45779,2,8,68,12
+,M73 Oglaševanje in raziskovanje trga,2272,31150,3,10,70,14
+,M74 Druge strokovne in tehniène dejavnosti,561,11826,2,6,30,21
+,M75 Veterinarstvo,336,6500,2,8,41,19
+,N77 Dajanje v najem in zakup,224,5532,3,10,40,25
+,N78 Zaposlovalne dejavnosti,5613,61459,4,14,125,11
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1226,24194,3,12,59,20
+,N80 Varovanje in poizvedovalne dejavnosti,4434,116206,5,17,66,26
+,N81 Dejavnost oskrbe stavb in okolice,7395,193367,6,22,82,26
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2146,44516,4,14,69,21
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",69419,886467,5,17,130,13
+,P85 Izobraževanje,65616,888437,4,14,1010,14
+,Q86 Zdravstvo,38252,696234,5,18,101,18
+,Q87 Socialno varstvo z nastanitvijo,12030,229932,6,22,114,19
+,Q88 Socialno varstvo brez nastanitve,5065,81249,5,17,106,16
+,R90 Kulturne in razvedrilne dejavnosti,2152,43870,2,9,42,20
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",3379,44481,4,14,105,13
+,R92 Prirejanje iger na sreèo,3098,42716,4,15,105,14
+,R93 Športne in druge dejavnosti za prosti èas,1100,29559,2,9,33,27
+,S94 Dejavnost èlanskih organizacij,1765,28231,2,8,52,16
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,424,10739,3,9,36,25
+,S96 Druge storitvene dejavnosti,3983,103865,4,13,50,26
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),17930,742774,-,-,-,-
+2009,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",6426,235671,4,13,35,37
+,B RUDARSTVO,2362,60674,5,19,75,26
+,C PREDELOVALNE DEJAVNOSTI,183628,3613124,5,19,95,20
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",6572,104939,4,14,85,16
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",6717,138383,4,15,74,21
+,F GRADBENIŠTVO,39558,957052,3,12,48,24
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",75221,1453695,3,13,65,19
+,H PROMET IN SKLADIŠÈENJE,27966,585737,3,12,59,21
+,I GOSTINSTVO,17524,466057,4,15,55,27
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,16689,195343,2,9,76,12
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,29508,342150,4,14,119,12
+,L POSLOVANJE Z NEPREMIÈNINAMI,2099,44148,3,11,53,21
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",27253,396486,2,9,59,15
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,18754,388200,4,15,72,21
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",66493,825786,4,15,123,12
+,P IZOBRAŽEVANJE,71423,893362,4,13,107,13
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,53027,886478,5,16,98,17
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",9528,154670,3,10,64,16
+,S DRUGE DEJAVNOSTI,6043,136400,3,11,47,23
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,4803,193833,3,12,31,40
+,A02 Gozdarstvo,1511,39573,5,17,64,26
+,A03 Ribištvo in gojenje vodnih organizmov,112,2265,3,11,53,20
+,B05 Pridobivanje premoga,1469,41285,6,23,80,28
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,4,29,1,3,36,7
+,B08 Pridobivanje rudnin in kamnin,727,15998,4,14,62,22
+,B09 Storitve za rudarstvo,162,3362,7,25,122,21
+,C10 Proizvodnja živil,11502,270123,6,20,86,24
+,C11 Proizvodnja pijaè,1684,33517,5,20,100,20
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,6735,145160,7,24,111,22
+,C14 Proizvodnja oblaèil,8174,188833,9,34,149,23
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4579,78540,6,21,121,17
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",7786,180435,5,19,81,23
+,C17 Proizvodnja papirja in izdelkov iz papirja,4358,84171,5,20,102,19
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,4116,85594,5,17,82,21
+,C19 Proizvodnja koksa in naftnih derivatov,95,1391,7,25,170,15
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6985,134825,5,19,99,19
+,C21 Proizvodnja farmacevtskih surovin in preparatov,6586,94209,4,15,107,14
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,10539,202532,5,16,86,19
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7507,161334,6,21,98,22
+,C24 Proizvodnja kovin,7874,160905,5,20,97,20
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",24099,505232,4,16,76,21
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",11208,166870,5,19,127,15
+,C27 Proizvodnja elektriènih naprav,20908,367044,5,19,108,18
+,C28 Proizvodnja drugih strojev in naprav,12582,242451,5,17,87,19
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",12990,235766,5,19,102,18
+,C30 Proizvodnja drugih vozil in plovil,2026,36589,7,27,148,18
+,C31 Proizvodnja pohištva,7768,176287,6,20,88,23
+,C32 Druge raznovrstne predelovalne dejavnosti,2380,37277,4,14,91,16
+,C33 Popravila in montaža strojev in naprav,1147,24039,3,10,46,21
+,"D35 Oskrba z elektrièno energijo, plinom in paro",6572,104939,4,14,85,16
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3193,61848,4,14,75,19
+,E37 Ravnanje z odplakami,261,6899,6,21,80,26
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",3146,65921,4,16,74,21
+,E39 Saniranje okolja in drugo ravnanje z odpadki,117,3715,4,16,51,32
+,F41 Gradnja stavb,15957,383513,3,11,48,24
+,F42 Gradnja inženirskih objektov,8294,166436,4,15,76,20
+,F43 Specializirana gradbena dela,15307,407103,3,11,40,27
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9605,177898,3,12,64,19
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",26336,450072,3,10,58,17
+,"G47 Trgovina na drobno, razen z motornimi vozili",39280,825725,4,15,70,21
+,"H49 Kopenski promet, cevovodni transport",10277,297088,3,11,37,29
+,H50 Vodni promet,322,5438,5,18,107,17
+,H51 Zraèni promet,931,10853,3,13,108,12
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9112,141501,4,13,85,16
+,H53 Poštna in kurirska dejavnost,7324,130857,5,17,95,18
+,I55 Gostinske nastanitvene dejavnosti,7605,197433,6,21,80,26
+,I56 Dejavnost strežbe jedi in pijaè,9919,268624,3,12,44,27
+,J58 Založništvo,2766,34194,3,10,82,12
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",495,8245,2,8,50,17
+,J60 Radijska in televizijska dejavnost,2188,34228,4,13,83,16
+,J61 Telekomunikacijske dejavnosti,4646,45661,3,10,98,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",5056,54270,2,7,61,11
+,J63 Druge informacijske dejavnosti,1538,18745,3,10,81,12
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",19684,218114,4,14,127,11
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",7865,98910,4,16,125,13
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,1959,25126,2,8,65,13
+,L68 Poslovanje z nepremièninami,2099,44148,3,11,53,21
+,M69 Pravne in raèunovodske dejavnosti,4661,80004,2,8,47,17
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",4409,67577,2,8,50,15
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",10021,146449,3,9,63,15
+,M72 Znanstvena raziskovalna in razvojna dejavnost,4210,44066,2,8,75,11
+,M73 Oglaševanje in raziskovanje trga,2474,28760,2,9,75,12
+,M74 Druge strokovne in tehniène dejavnosti,803,18311,2,9,37,23
+,M75 Veterinarstvo,675,11319,4,14,83,17
+,N77 Dajanje v najem in zakup,261,5280,3,9,46,20
+,N78 Zaposlovalne dejavnosti,3958,47860,3,11,87,12
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1026,20975,3,11,52,20
+,N80 Varovanje in poizvedovalne dejavnosti,5065,119371,4,16,67,24
+,N81 Dejavnost oskrbe stavb in okolice,6099,156995,5,19,74,26
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2345,37719,3,12,71,16
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",66493,825786,4,15,123,12
+,P85 Izobraževanje,71423,893362,4,13,107,13
+,Q86 Zdravstvo,36018,599166,4,16,95,17
+,Q87 Socialno varstvo z nastanitvijo,11915,212284,5,19,107,18
+,Q88 Socialno varstvo brez nastanitve,5094,75028,4,15,103,15
+,R90 Kulturne in razvedrilne dejavnosti,2346,48118,3,9,44,21
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",3354,38883,3,12,102,12
+,R92 Prirejanje iger na sreèo,2686,39490,4,14,93,15
+,R93 Športne in druge dejavnosti za prosti èas,1142,28179,2,8,34,25
+,S94 Dejavnost èlanskih organizacij,1876,28186,2,8,56,15
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,356,10980,3,9,29,31
+,S96 Druge storitvene dejavnosti,3811,97234,3,12,46,26
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),75551,1447029,-,-,-,-
+2010,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",6301,229521,4,14,37,36
+,B RUDARSTVO,2486,57678,5,20,85,23
+,C PREDELOVALNE DEJAVNOSTI,180334,3421822,5,18,96,19
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",6765,110733,4,15,89,16
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",7670,157191,5,17,83,21
+,F GRADBENIŠTVO,39834,973272,4,13,54,24
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",80279,1504341,4,14,73,19
+,H PROMET IN SKLADIŠÈENJE,28760,619620,4,13,62,22
+,I GOSTINSTVO,18430,473718,4,15,58,26
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,18233,205570,3,9,80,11
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,29985,324914,4,13,123,11
+,L POSLOVANJE Z NEPREMIÈNINAMI,2480,49558,3,12,58,20
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",28295,394918,2,8,59,14
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,20635,425610,5,16,79,21
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",78251,874405,5,17,148,11
+,P IZOBRAŽEVANJE,74975,907919,4,13,109,12
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,61773,957223,5,18,115,16
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",10921,157220,3,11,75,14
+,S DRUGE DEJAVNOSTI,6966,145802,3,11,52,21
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,4632,190875,4,13,32,41
+,A02 Gozdarstvo,1589,36716,5,18,77,23
+,A03 Ribištvo in gojenje vodnih organizmov,80,1930,3,9,39,24
+,B05 Pridobivanje premoga,1510,35894,6,21,87,24
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,5,24,1,3,71,5
+,B08 Pridobivanje rudnin in kamnin,856,20371,5,18,77,24
+,B09 Storitve za rudarstvo,115,1389,6,22,183,12
+,C10 Proizvodnja živil,11233,253429,5,19,85,23
+,C11 Proizvodnja pijaè,1927,33876,5,19,109,18
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,5258,109334,7,26,123,21
+,C14 Proizvodnja oblaèil,5218,95241,5,18,100,18
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4297,69142,5,19,117,16
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",8287,186156,6,21,91,23
+,C17 Proizvodnja papirja in izdelkov iz papirja,4233,76755,5,18,98,18
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,3204,63029,4,14,70,20
+,C19 Proizvodnja koksa in naftnih derivatov,79,819,6,21,198,10
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6639,132032,6,20,100,20
+,C21 Proizvodnja farmacevtskih surovin in preparatov,6887,95021,4,15,108,14
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,11249,209884,4,16,86,19
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7776,162086,6,20,98,21
+,C24 Proizvodnja kovin,8005,151571,5,20,104,19
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",24450,498227,5,17,82,20
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",9675,133571,5,20,142,14
+,C27 Proizvodnja elektriènih naprav,22163,397964,6,22,120,18
+,C28 Proizvodnja drugih strojev in naprav,12897,242389,5,19,98,19
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",13015,233444,5,18,102,18
+,C30 Proizvodnja drugih vozil in plovil,1266,18753,9,33,219,15
+,C31 Proizvodnja pohištva,7622,167088,5,20,90,22
+,C32 Druge raznovrstne predelovalne dejavnosti,2523,41463,4,14,82,16
+,C33 Popravila in montaža strojev in naprav,2431,50548,2,8,40,21
+,"D35 Oskrba z elektrièno energijo, plinom in paro",6765,110733,4,15,89,16
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3400,63173,4,16,85,19
+,E37 Ravnanje z odplakami,263,6943,6,22,84,26
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",3863,83346,5,18,82,22
+,E39 Saniranje okolja in drugo ravnanje z odpadki,144,3729,6,22,84,26
+,F41 Gradnja stavb,13292,332194,4,16,65,25
+,F42 Gradnja inženirskih objektov,9973,196004,4,15,77,20
+,F43 Specializirana gradbena dela,16569,445074,3,11,41,27
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9176,177044,3,12,63,19
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",28837,474071,3,12,70,16
+,"G47 Trgovina na drobno, razen z motornimi vozili",42266,853226,4,16,77,20
+,"H49 Kopenski promet, cevovodni transport",11002,322079,3,12,39,29
+,H50 Vodni promet,347,3679,4,14,131,11
+,H51 Zraèni promet,773,11817,5,19,126,15
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9096,137441,4,13,87,15
+,H53 Poštna in kurirska dejavnost,7542,144604,5,20,102,19
+,I55 Gostinske nastanitvene dejavnosti,8310,201923,6,21,85,24
+,I56 Dejavnost strežbe jedi in pijaè,10120,271795,3,13,47,27
+,J58 Založništvo,2955,39005,3,12,87,13
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",497,6911,2,6,45,14
+,J60 Radijska in televizijska dejavnost,2089,30477,3,12,80,15
+,J61 Telekomunikacijske dejavnosti,5178,51421,3,11,112,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",5993,59748,2,6,62,10
+,J63 Druge informacijske dejavnosti,1521,18008,3,12,99,12
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",19850,206607,4,14,131,10
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",7896,84507,4,14,129,11
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2239,33800,3,11,74,15
+,L68 Poslovanje z nepremièninami,2480,49558,3,12,58,20
+,M69 Pravne in raèunovodske dejavnosti,5164,83273,2,8,52,16
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",5034,73986,2,8,53,15
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",9351,131385,2,9,63,14
+,M72 Znanstvena raziskovalna in razvojna dejavnost,4287,43597,2,7,69,10
+,M73 Oglaševanje in raziskovanje trga,2423,29759,3,10,78,12
+,M74 Druge strokovne in tehniène dejavnosti,1306,24132,2,7,40,19
+,M75 Veterinarstvo,730,8786,3,11,88,12
+,N77 Dajanje v najem in zakup,360,4683,2,8,62,13
+,N78 Zaposlovalne dejavnosti,5599,65407,3,10,89,12
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1072,18688,3,10,59,17
+,N80 Varovanje in poizvedovalne dejavnosti,5254,134645,5,18,72,26
+,N81 Dejavnost oskrbe stavb in okolice,6199,165626,6,21,79,27
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2151,36561,4,16,93,17
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",78251,874405,5,17,148,11
+,P85 Izobraževanje,74975,907919,4,13,109,12
+,Q86 Zdravstvo,41620,633042,5,17,111,15
+,Q87 Socialno varstvo z nastanitvijo,14487,245768,6,21,123,17
+,Q88 Socialno varstvo brez nastanitve,5666,78413,5,17,123,14
+,R90 Kulturne in razvedrilne dejavnosti,2523,40261,2,8,48,16
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",4014,42629,3,12,114,11
+,R92 Prirejanje iger na sreèo,3158,47524,5,17,112,15
+,R93 Športne in druge dejavnosti za prosti èas,1226,26806,2,9,41,22
+,S94 Dejavnost èlanskih organizacij,2214,30053,2,8,57,14
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,526,15464,3,11,37,29
+,S96 Druge storitvene dejavnosti,4226,100285,3,12,52,24
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),25631,817207,-,-,-,-
+2011,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5652,209295,4,13,35,37
+,B RUDARSTVO,2259,51093,5,19,82,23
+,C PREDELOVALNE DEJAVNOSTI,174950,3232284,5,17,94,19
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",7049,107285,4,14,90,15
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",8150,165680,5,17,85,20
+,F GRADBENIŠTVO,34012,856758,4,14,54,25
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",82203,1458620,4,13,75,18
+,H PROMET IN SKLADIŠÈENJE,30814,610563,4,13,66,20
+,I GOSTINSTVO,18433,460377,4,15,59,25
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,19342,200859,2,9,84,10
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,31849,333210,4,14,133,11
+,L POSLOVANJE Z NEPREMIÈNINAMI,2456,55071,4,14,61,22
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",30265,420093,2,8,61,14
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,21176,397555,4,15,80,19
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",85292,1210853,4,15,103,14
+,P IZOBRAŽEVANJE,81272,931887,4,13,116,12
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,65630,1004390,5,18,119,15
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",11120,161493,3,12,79,15
+,S DRUGE DEJAVNOSTI,7500,142724,3,11,56,19
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",2,2,0,0,0,0
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,4037,169664,3,12,29,42
+,A02 Gozdarstvo,1538,37481,5,18,72,24
+,A03 Ribištvo in gojenje vodnih organizmov,77,2150,3,11,38,28
+,B05 Pridobivanje premoga,1259,29941,5,19,78,24
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,2,33,2,6,33,17
+,B08 Pridobivanje rudnin in kamnin,924,20224,5,19,86,22
+,B09 Storitve za rudarstvo,74,895,4,13,104,12
+,C10 Proizvodnja živil,11346,235492,5,18,88,21
+,C11 Proizvodnja pijaè,1734,27841,5,17,106,16
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,3394,83319,6,22,90,25
+,C14 Proizvodnja oblaèil,4225,87691,5,17,82,21
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4787,69627,5,18,126,15
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",8218,169561,5,20,95,21
+,C17 Proizvodnja papirja in izdelkov iz papirja,4067,75346,5,18,95,19
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,3021,55676,4,13,69,18
+,C19 Proizvodnja koksa in naftnih derivatov,18,247,2,8,58,14
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6300,111384,5,17,97,18
+,C21 Proizvodnja farmacevtskih surovin in preparatov,7402,91641,4,16,127,12
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,11036,206008,4,16,83,19
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7512,159721,6,21,98,21
+,C24 Proizvodnja kovin,7104,157865,6,22,97,22
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",22992,471348,4,16,77,21
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",8028,106116,4,15,116,13
+,C27 Proizvodnja elektriènih naprav,22100,379230,6,21,125,17
+,C28 Proizvodnja drugih strojev in naprav,13571,235501,5,17,97,17
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",13908,235654,5,18,106,17
+,C30 Proizvodnja drugih vozil in plovil,513,7448,4,15,103,15
+,C31 Proizvodnja pohištva,6314,128747,5,18,90,20
+,C32 Druge raznovrstne predelovalne dejavnosti,2928,42832,3,12,83,15
+,C33 Popravila in montaža strojev in naprav,4432,93989,3,11,52,21
+,"D35 Oskrba z elektrièno energijo, plinom in paro",7049,107285,4,14,90,15
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3381,65317,5,17,87,19
+,E37 Ravnanje z odplakami,241,5694,5,18,76,24
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4441,92424,5,18,85,21
+,E39 Saniranje okolja in drugo ravnanje z odpadki,87,2245,3,11,42,26
+,F41 Gradnja stavb,9409,241948,4,14,55,26
+,F42 Gradnja inženirskih objektov,8959,178986,5,19,96,20
+,F43 Specializirana gradbena dela,15644,435824,3,12,42,28
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9067,160396,3,11,62,18
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",28015,432766,3,11,71,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",45121,865458,4,16,81,19
+,"H49 Kopenski promet, cevovodni transport",12158,321572,3,11,40,26
+,H50 Vodni promet,256,3978,4,15,99,16
+,H51 Zraèni promet,678,8581,4,14,109,13
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9649,132311,4,16,116,14
+,H53 Poštna in kurirska dejavnost,8073,144121,5,19,108,18
+,I55 Gostinske nastanitvene dejavnosti,8503,208239,6,22,91,25
+,I56 Dejavnost strežbe jedi in pijaè,9930,252138,3,12,45,25
+,J58 Založništvo,3096,39446,3,12,95,13
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",563,7793,2,7,48,14
+,J60 Radijska in televizijska dejavnost,2127,25459,3,10,85,12
+,J61 Telekomunikacijske dejavnosti,5332,50780,3,11,113,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",6774,63686,2,7,70,9
+,J63 Druge informacijske dejavnosti,1450,13695,3,9,97,9
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",21045,212227,4,14,142,10
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",8285,89505,4,15,134,11
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2519,31478,3,11,85,13
+,L68 Poslovanje z nepremièninami,2456,55071,4,14,61,22
+,M69 Pravne in raèunovodske dejavnosti,5371,88780,2,9,54,17
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",5784,80639,2,8,57,14
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",9271,127759,2,9,64,14
+,M72 Znanstvena raziskovalna in razvojna dejavnost,5101,49603,2,6,65,10
+,M73 Oglaševanje in raziskovanje trga,2619,31626,3,10,87,12
+,M74 Druge strokovne in tehniène dejavnosti,1643,30983,2,9,46,19
+,M75 Veterinarstvo,476,10703,3,12,54,23
+,N77 Dajanje v najem in zakup,386,7788,3,12,61,20
+,N78 Zaposlovalne dejavnosti,6700,67867,3,10,103,10
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1133,14879,2,8,61,13
+,N80 Varovanje in poizvedovalne dejavnosti,4719,107376,4,15,66,23
+,N81 Dejavnost oskrbe stavb in okolice,5906,164426,6,21,74,28
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2332,35219,4,14,95,15
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",85292,1210853,4,15,103,14
+,P85 Izobraževanje,81272,931887,4,13,116,12
+,Q86 Zdravstvo,43993,652681,5,17,114,15
+,Q87 Socialno varstvo z nastanitvijo,15711,272418,6,22,129,17
+,Q88 Socialno varstvo brez nastanitve,5926,79291,5,17,130,13
+,R90 Kulturne in razvedrilne dejavnosti,2701,42809,2,8,51,16
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",4183,45756,4,13,122,11
+,R92 Prirejanje iger na sreèo,3153,43736,5,18,130,14
+,R93 Športne in druge dejavnosti za prosti èas,1083,29192,3,10,37,27
+,S94 Dejavnost èlanskih organizacij,2536,32344,2,9,69,13
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,580,13557,3,9,38,23
+,S96 Druge storitvene dejavnosti,4384,96823,3,12,53,22
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),15099,528974,-,-,-,-
+2012,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5498,212237,4,13,34,39
+,B RUDARSTVO,2114,53144,5,20,79,25
+,C PREDELOVALNE DEJAVNOSTI,172123,3149324,5,17,95,18
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",7192,107623,4,14,92,15
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",8207,157606,5,17,86,19
+,F GRADBENIŠTVO,28546,811254,4,14,50,28
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",80680,1468242,4,14,75,18
+,H PROMET IN SKLADIŠÈENJE,30638,628841,4,14,67,21
+,I GOSTINSTVO,18358,463236,4,15,59,25
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,19308,198847,2,9,83,10
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,30505,311995,4,14,132,10
+,L POSLOVANJE Z NEPREMIÈNINAMI,2510,41012,3,10,62,16
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",31121,440999,2,9,63,14
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,21061,405284,4,16,82,19
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",90702,1580814,9,31,177,17
+,P IZOBRAŽEVANJE,83693,951659,4,14,121,11
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,69836,1008845,5,18,125,14
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",10933,166355,3,12,79,15
+,S DRUGE DEJAVNOSTI,7237,155271,3,12,54,22
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3966,177322,4,13,28,45
+,A02 Gozdarstvo,1448,33890,5,16,70,23
+,A03 Ribištvo in gojenje vodnih organizmov,84,1025,1,5,43,12
+,B05 Pridobivanje premoga,1266,36437,6,22,78,29
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,3,22,2,6,75,7
+,B08 Pridobivanje rudnin in kamnin,792,15465,4,16,80,20
+,B09 Storitve za rudarstvo,53,1220,5,19,80,23
+,C10 Proizvodnja živil,11269,237878,5,19,88,21
+,C11 Proizvodnja pijaè,1742,28222,5,17,105,16
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,3064,83155,6,23,83,27
+,C14 Proizvodnja oblaèil,4172,77274,5,17,92,19
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4752,65177,5,20,144,14
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",7312,162131,6,20,91,22
+,C17 Proizvodnja papirja in izdelkov iz papirja,3999,75830,5,19,101,19
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,2742,50060,3,12,67,18
+,C19 Proizvodnja koksa in naftnih derivatov,25,943,9,33,86,38
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6078,110125,5,17,96,18
+,C21 Proizvodnja farmacevtskih surovin in preparatov,7166,86505,4,14,116,12
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,10673,190120,4,15,83,18
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7260,148611,6,20,99,21
+,C24 Proizvodnja kovin,6917,144384,5,19,91,21
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",22767,441256,4,15,78,19
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",8715,116103,5,17,126,13
+,C27 Proizvodnja elektriènih naprav,21630,410672,7,24,125,19
+,C28 Proizvodnja drugih strojev in naprav,13539,220701,5,16,100,16
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",13812,228711,5,18,108,17
+,C30 Proizvodnja drugih vozil in plovil,513,5400,3,10,90,11
+,C31 Proizvodnja pohištva,5047,100861,5,17,84,20
+,C32 Druge raznovrstne predelovalne dejavnosti,3208,50284,4,15,98,16
+,C33 Popravila in montaža strojev in naprav,5721,114921,4,13,66,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",7192,107623,4,14,92,15
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3321,55040,4,15,87,17
+,E37 Ravnanje z odplakami,260,6688,6,21,80,26
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4482,93568,5,18,87,21
+,E39 Saniranje okolja in drugo ravnanje z odpadki,144,2310,2,9,54,16
+,F41 Gradnja stavb,7877,234156,5,17,57,30
+,F42 Gradnja inženirskih objektov,6044,133710,5,17,78,22
+,F43 Specializirana gradbena dela,14625,443388,3,13,41,30
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,8553,153044,3,11,61,18
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",26702,429612,3,11,69,16
+,"G47 Trgovina na drobno, razen z motornimi vozili",45425,885586,4,16,83,20
+,"H49 Kopenski promet, cevovodni transport",13411,358496,3,12,46,27
+,H50 Vodni promet,218,3006,4,13,96,14
+,H51 Zraèni promet,644,6515,3,12,114,10
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,8296,115523,4,14,98,14
+,H53 Poštna in kurirska dejavnost,8069,145301,6,20,111,18
+,I55 Gostinske nastanitvene dejavnosti,8422,196928,5,20,85,23
+,I56 Dejavnost strežbe jedi in pijaè,9936,266308,3,12,46,27
+,J58 Založništvo,2947,32073,3,10,96,11
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",610,10117,2,9,51,17
+,J60 Radijska in televizijska dejavnost,2199,25247,3,10,84,12
+,J61 Telekomunikacijske dejavnosti,5296,54645,3,11,111,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",6901,62930,2,6,69,9
+,J63 Druge informacijske dejavnosti,1355,13835,2,9,86,10
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",20348,193505,4,14,144,10
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",7878,83312,4,13,127,11
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2279,35178,3,12,80,15
+,L68 Poslovanje z nepremièninami,2510,41012,3,10,62,16
+,M69 Pravne in raèunovodske dejavnosti,5615,92102,3,9,55,16
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",6040,89847,2,9,58,15
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",8709,126524,3,9,65,15
+,M72 Znanstvena raziskovalna in razvojna dejavnost,6297,63052,2,8,79,10
+,M73 Oglaševanje in raziskovanje trga,2317,30788,3,11,79,13
+,M74 Druge strokovne in tehniène dejavnosti,1737,31326,2,8,46,18
+,M75 Veterinarstvo,406,7360,2,9,47,18
+,N77 Dajanje v najem in zakup,350,4142,2,7,59,12
+,N78 Zaposlovalne dejavnosti,6490,67831,3,11,106,11
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1219,21129,3,11,65,17
+,N80 Varovanje in poizvedovalne dejavnosti,4798,117752,5,17,69,25
+,N81 Dejavnost oskrbe stavb in okolice,5797,154515,5,19,73,27
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2407,39915,5,18,111,17
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",90702,1580814,9,31,177,17
+,P85 Izobraževanje,83693,951659,4,14,121,11
+,Q86 Zdravstvo,45928,642826,5,17,119,14
+,Q87 Socialno varstvo z nastanitvijo,16478,280140,6,23,133,17
+,Q88 Socialno varstvo brez nastanitve,7430,85879,5,18,155,12
+,R90 Kulturne in razvedrilne dejavnosti,2711,48339,3,9,52,18
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",4039,45879,4,13,118,11
+,R92 Prirejanje iger na sreèo,3019,37701,5,17,133,13
+,R93 Športne in druge dejavnosti za prosti èas,1164,34436,3,12,40,30
+,S94 Dejavnost èlanskih organizacij,2445,34553,3,9,65,14
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,647,13663,3,10,45,21
+,S96 Druge storitvene dejavnosti,4145,107055,4,13,50,26
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),3151,41698,-,-,-,-
+2013,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5654,220463,4,14,35,39
+,B RUDARSTVO,2128,64402,7,24,81,30
+,C PREDELOVALNE DEJAVNOSTI,175588,3027988,5,17,98,17
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",8129,105705,4,13,103,13
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",8675,155671,4,16,89,18
+,F GRADBENIŠTVO,25932,701898,3,13,46,27
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",82218,1424648,4,14,79,17
+,H PROMET IN SKLADIŠÈENJE,32838,635832,4,14,71,19
+,I GOSTINSTVO,18566,454328,4,15,61,25
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,21101,212538,3,9,90,10
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,31947,309780,4,14,140,10
+,L POSLOVANJE Z NEPREMIÈNINAMI,2686,53983,4,13,67,20
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",34147,454928,2,9,67,13
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,21134,413823,4,16,81,20
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",92039,1248895,7,25,183,14
+,P IZOBRAŽEVANJE,92870,964084,4,14,133,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,76799,1062738,5,19,137,14
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",11411,167457,3,12,82,15
+,S DRUGE DEJAVNOSTI,7914,154938,3,12,59,20
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3906,178937,4,13,28,46
+,A02 Gozdarstvo,1652,38894,5,18,78,24
+,A03 Ribištvo in gojenje vodnih organizmov,96,2632,4,14,51,27
+,B05 Pridobivanje premoga,1277,44252,8,28,80,35
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,6,37,3,9,150,6
+,B08 Pridobivanje rudnin in kamnin,802,19450,6,20,83,24
+,B09 Storitve za rudarstvo,43,663,2,8,52,15
+,C10 Proizvodnja živil,11271,237725,5,19,90,21
+,C11 Proizvodnja pijaè,1737,29749,5,18,106,17
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,2945,61719,5,19,92,21
+,C14 Proizvodnja oblaèil,4124,77779,5,19,103,19
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4932,64285,5,19,147,13
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",6918,135709,5,17,87,20
+,C17 Proizvodnja papirja in izdelkov iz papirja,3998,71076,5,17,95,18
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,2673,52634,4,13,66,20
+,C19 Proizvodnja koksa in naftnih derivatov,19,639,7,27,79,34
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6266,102155,5,16,100,16
+,C21 Proizvodnja farmacevtskih surovin in preparatov,8596,104460,5,16,134,12
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,11577,223883,5,17,89,19
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7159,154512,6,22,101,22
+,C24 Proizvodnja kovin,7774,136322,5,18,102,18
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",22149,395710,4,14,77,18
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",10129,110187,4,16,145,11
+,C27 Proizvodnja elektriènih naprav,21368,357632,6,21,126,17
+,C28 Proizvodnja drugih strojev in naprav,13052,211134,4,16,99,16
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",14333,233895,5,18,108,16
+,C30 Proizvodnja drugih vozil in plovil,712,8529,4,15,124,12
+,C31 Proizvodnja pohištva,4597,84804,4,15,84,18
+,C32 Druge raznovrstne predelovalne dejavnosti,3225,48588,4,15,98,15
+,C33 Popravila in montaža strojev in naprav,6034,124862,4,14,66,21
+,"D35 Oskrba z elektrièno energijo, plinom in paro",8129,105705,4,13,103,13
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3559,56135,4,14,91,16
+,E37 Ravnanje z odplakami,261,5290,4,16,77,20
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4629,89898,5,18,91,19
+,E39 Saniranje okolja in drugo ravnanje z odpadki,226,4348,3,10,50,19
+,F41 Gradnja stavb,6252,188265,4,15,48,30
+,F42 Gradnja inženirskih objektov,5487,112010,4,15,72,20
+,F43 Specializirana gradbena dela,14193,401623,3,11,40,28
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,8262,147171,3,11,60,18
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",26973,404566,3,11,72,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",46983,872911,5,17,89,19
+,"H49 Kopenski promet, cevovodni transport",13474,343932,3,12,46,26
+,H50 Vodni promet,220,1660,2,8,105,8
+,H51 Zraèni promet,748,6817,4,13,140,9
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9018,137387,4,15,95,15
+,H53 Poštna in kurirska dejavnost,9378,146036,6,21,135,16
+,I55 Gostinske nastanitvene dejavnosti,8779,184500,5,20,93,21
+,I56 Dejavnost strežbe jedi in pijaè,9787,269828,4,13,46,28
+,J58 Založništvo,2883,33240,3,12,100,12
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",627,8386,2,6,48,13
+,J60 Radijska in televizijska dejavnost,2428,25174,3,10,98,10
+,J61 Telekomunikacijske dejavnosti,6274,58915,3,12,126,9
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",7414,71928,2,7,73,10
+,J63 Druge informacijske dejavnosti,1475,14895,2,9,86,10
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",21198,192847,4,14,154,9
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",8495,86266,4,14,138,10
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2254,30667,3,11,79,14
+,L68 Poslovanje z nepremièninami,2686,53983,4,13,67,20
+,M69 Pravne in raèunovodske dejavnosti,6001,94098,3,9,58,16
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",7214,97793,2,8,61,14
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",8714,121660,3,9,65,14
+,M72 Znanstvena raziskovalna in razvojna dejavnost,7594,67531,2,9,96,9
+,M73 Oglaševanje in raziskovanje trga,2380,33005,3,11,80,14
+,M74 Druge strokovne in tehniène dejavnosti,1808,33859,2,9,45,19
+,M75 Veterinarstvo,436,6982,2,8,50,16
+,N77 Dajanje v najem in zakup,382,7679,3,13,62,20
+,N78 Zaposlovalne dejavnosti,6818,66473,3,10,102,10
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1198,16334,3,9,66,14
+,N80 Varovanje in poizvedovalne dejavnosti,4956,113395,5,17,72,23
+,N81 Dejavnost oskrbe stavb in okolice,6079,173278,6,22,76,29
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,1701,36664,5,17,78,22
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",92039,1248895,7,25,183,14
+,P85 Izobraževanje,92870,964084,4,14,133,10
+,Q86 Zdravstvo,51327,678235,5,18,133,13
+,Q87 Socialno varstvo z nastanitvijo,17460,292873,6,24,140,17
+,Q88 Socialno varstvo brez nastanitve,8012,91630,5,19,163,11
+,R90 Kulturne in razvedrilne dejavnosti,2925,59822,3,11,55,21
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",4528,50088,4,15,132,11
+,R92 Prirejanje iger na sreèo,2699,33550,4,16,124,12
+,R93 Športne in druge dejavnosti za prosti èas,1259,23997,2,8,43,19
+,S94 Dejavnost èlanskih organizacij,2878,35315,3,9,75,12
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,599,12361,2,9,42,21
+,S96 Druge storitvene dejavnosti,4437,107262,4,13,54,24
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),3699,46279,-,-,-,-
+2014,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5373,212963,4,13,32,40
+,B RUDARSTVO,2012,53134,6,21,80,26
+,C PREDELOVALNE DEJAVNOSTI,165707,2799379,4,16,92,17
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",7811,109903,4,14,98,14
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",8500,152427,4,16,90,18
+,F GRADBENIŠTVO,23851,641631,3,12,43,27
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",79177,1318919,3,13,75,17
+,H PROMET IN SKLADIŠÈENJE,31758,609836,4,13,67,19
+,I GOSTINSTVO,17773,435160,4,14,56,25
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,21135,206478,2,9,88,10
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,30618,276977,3,12,137,9
+,L POSLOVANJE Z NEPREMIÈNINAMI,2572,41149,3,10,63,16
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",34264,443754,2,9,67,13
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,23560,400546,3,12,73,17
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",91266,1087216,6,22,184,12
+,P IZOBRAŽEVANJE,93349,914614,4,13,132,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,78171,1018126,5,18,137,13
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",11117,154045,3,11,77,14
+,S DRUGE DEJAVNOSTI,7586,140736,3,10,54,19
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3768,170318,3,12,27,45
+,A02 Gozdarstvo,1501,39397,5,17,66,26
+,A03 Ribištvo in gojenje vodnih organizmov,104,3248,4,16,51,31
+,B05 Pridobivanje premoga,1232,32203,6,22,84,26
+,B06 Pridobivanje surove nafte in zemeljskega plina,1,4,0,0,0,4
+,B07 Pridobivanje rud,5,29,2,7,125,6
+,B08 Pridobivanje rudnin in kamnin,715,20215,6,21,73,28
+,B09 Storitve za rudarstvo,59,683,2,7,64,12
+,C10 Proizvodnja živil,10776,212603,5,17,85,20
+,C11 Proizvodnja pijaè,1491,25995,4,16,91,17
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,2258,56835,6,20,81,25
+,C14 Proizvodnja oblaèil,3214,57928,5,18,100,18
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",4884,57530,5,17,141,12
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",6179,124460,4,16,78,20
+,C17 Proizvodnja papirja in izdelkov iz papirja,4140,79948,5,18,95,19
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,2690,48415,3,13,70,18
+,C19 Proizvodnja koksa in naftnih derivatov,17,223,2,8,61,13
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6228,92287,4,15,98,15
+,C21 Proizvodnja farmacevtskih surovin in preparatov,8584,104638,4,16,130,12
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,10940,195175,4,15,82,18
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,6210,130449,5,19,90,21
+,C24 Proizvodnja kovin,7584,139168,5,18,96,18
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",21491,381097,4,13,71,18
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",9173,114920,5,17,135,13
+,C27 Proizvodnja elektriènih naprav,19649,317318,5,19,116,16
+,C28 Proizvodnja drugih strojev in naprav,12129,188124,4,15,95,16
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",14839,224998,4,16,104,15
+,C30 Proizvodnja drugih vozil in plovil,755,6891,3,11,124,9
+,C31 Proizvodnja pohištva,3786,83310,4,16,73,22
+,C32 Druge raznovrstne predelovalne dejavnosti,2919,41524,3,12,86,14
+,C33 Popravila in montaža strojev in naprav,5771,115543,3,12,61,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",7811,109903,4,14,98,14
+,"E36 Zbiranje, preèišèevanje in distribucija vode",3557,60285,4,15,89,17
+,E37 Ravnanje z odplakami,317,6840,5,19,86,22
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4299,79056,5,17,93,18
+,E39 Saniranje okolja in drugo ravnanje z odpadki,327,6246,4,14,74,19
+,F41 Gradnja stavb,5322,136396,3,11,44,26
+,F42 Gradnja inženirskih objektov,5445,104931,4,13,69,19
+,F43 Specializirana gradbena dela,13084,400304,3,11,36,31
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,8046,133121,3,10,58,17
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",25383,369564,3,10,68,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",45748,816234,4,15,85,18
+,"H49 Kopenski promet, cevovodni transport",12993,331773,3,11,43,26
+,H50 Vodni promet,159,896,1,4,78,6
+,H51 Zraèni promet,725,6447,3,12,129,9
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9148,131662,4,14,97,14
+,H53 Poštna in kurirska dejavnost,8733,139058,6,20,128,16
+,I55 Gostinske nastanitvene dejavnosti,8125,172780,5,19,87,21
+,I56 Dejavnost strežbe jedi in pijaè,9648,262380,3,12,43,27
+,J58 Založništvo,2684,32926,3,12,96,12
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",605,7814,2,6,45,13
+,J60 Radijska in televizijska dejavnost,2257,27812,3,11,89,12
+,J61 Telekomunikacijske dejavnosti,6242,55667,3,11,127,9
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",7527,67553,2,6,70,9
+,J63 Druge informacijske dejavnosti,1820,14706,2,8,103,8
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",20493,177658,4,14,156,9
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",7863,73145,3,12,128,9
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2262,26174,2,9,76,12
+,L68 Poslovanje z nepremièninami,2572,41149,3,10,63,16
+,M69 Pravne in raèunovodske dejavnosti,6277,95922,3,9,59,15
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",7553,101492,3,9,68,13
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",8588,118933,2,9,61,14
+,M72 Znanstvena raziskovalna in razvojna dejavnost,7078,63302,2,8,92,9
+,M73 Oglaševanje in raziskovanje trga,2469,26199,2,9,83,11
+,M74 Druge strokovne in tehniène dejavnosti,1826,27406,2,7,46,15
+,M75 Veterinarstvo,473,10500,3,11,51,22
+,N77 Dajanje v najem in zakup,353,6772,3,9,48,19
+,N78 Zaposlovalne dejavnosti,10370,107912,2,9,82,10
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1177,15104,2,8,65,13
+,N80 Varovanje in poizvedovalne dejavnosti,4430,92050,4,15,71,21
+,N81 Dejavnost oskrbe stavb in okolice,5589,142936,5,17,67,26
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,1641,35772,4,15,68,22
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",91266,1087216,6,22,184,12
+,P85 Izobraževanje,93349,914614,4,13,132,10
+,Q86 Zdravstvo,52170,650684,5,17,132,13
+,Q87 Socialno varstvo z nastanitvijo,17634,283904,6,22,138,16
+,Q88 Socialno varstvo brez nastanitve,8367,83538,5,17,171,10
+,R90 Kulturne in razvedrilne dejavnosti,2675,49221,2,9,47,18
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",4476,42097,3,12,128,9
+,R92 Prirejanje iger na sreèo,2616,30380,4,14,123,12
+,R93 Športne in druge dejavnosti za prosti èas,1350,32347,3,11,44,24
+,S94 Dejavnost èlanskih organizacij,2807,34621,2,9,70,12
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,533,10699,2,7,36,20
+,S96 Druge storitvene dejavnosti,4246,95416,3,11,49,23
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),4108,52181,-,-,-,-
+2015,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5814,214135,4,13,35,37
+,B RUDARSTVO,2166,62719,7,25,88,29
+,C PREDELOVALNE DEJAVNOSTI,190813,2984373,4,16,103,16
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",9176,110889,4,14,117,12
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",9568,145659,4,16,102,15
+,F GRADBENIŠTVO,26778,699859,3,13,48,26
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",92232,1442432,4,14,87,16
+,H PROMET IN SKLADIŠÈENJE,36445,625873,4,13,75,17
+,I GOSTINSTVO,19654,465875,4,14,60,24
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,25572,232084,3,10,104,9
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,36732,317129,4,14,166,9
+,L POSLOVANJE Z NEPREMIÈNINAMI,2829,41755,3,11,71,15
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",38026,447887,2,9,73,12
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,32076,505299,4,15,95,16
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",105422,1120413,6,23,213,11
+,P IZOBRAŽEVANJE,109717,1011484,4,14,154,9
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,91700,1131518,5,19,156,12
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",13275,164159,3,11,90,12
+,S DRUGE DEJAVNOSTI,8677,147958,3,10,61,17
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3874,169983,3,12,28,44
+,A02 Gozdarstvo,1848,42923,5,18,78,23
+,A03 Ribištvo in gojenje vodnih organizmov,92,1229,2,6,48,13
+,B05 Pridobivanje premoga,1276,41153,8,31,95,32
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,-,-,-,-,-,-
+,B08 Pridobivanje rudnin in kamnin,832,20398,5,20,80,25
+,B09 Storitve za rudarstvo,58,1168,4,15,74,20
+,C10 Proizvodnja živil,12329,231414,5,18,95,19
+,C11 Proizvodnja pijaè,1686,26369,5,17,109,16
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,2251,50929,5,18,78,23
+,C14 Proizvodnja oblaèil,2835,42815,4,14,92,15
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",5896,64119,5,17,158,11
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",7070,141331,5,17,87,20
+,C17 Proizvodnja papirja in izdelkov iz papirja,4580,76995,5,19,111,17
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,2863,47577,3,12,74,17
+,C19 Proizvodnja koksa in naftnih derivatov,21,326,5,18,117,16
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6973,95314,4,15,109,14
+,C21 Proizvodnja farmacevtskih surovin in preparatov,10939,108836,4,16,160,10
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,13013,216687,4,15,92,17
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,6892,126389,5,18,99,18
+,C24 Proizvodnja kovin,8669,149554,5,19,108,17
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",25678,440617,4,14,82,17
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",9997,116396,5,17,145,12
+,C27 Proizvodnja elektriènih naprav,23467,342689,6,20,137,15
+,C28 Proizvodnja drugih strojev in naprav,13518,191575,4,15,103,14
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",17146,252240,5,17,116,15
+,C30 Proizvodnja drugih vozil in plovil,721,7774,3,12,113,11
+,C31 Proizvodnja pohištva,4267,80868,4,15,81,19
+,C32 Druge raznovrstne predelovalne dejavnosti,3608,48631,4,14,101,14
+,C33 Popravila in montaža strojev in naprav,6394,124928,4,13,67,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",9176,110889,4,14,117,12
+,"E36 Zbiranje, preèišèevanje in distribucija vode",4234,59574,4,15,106,14
+,E37 Ravnanje z odplakami,294,4355,3,11,77,15
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4720,76767,5,17,103,16
+,E39 Saniranje okolja in drugo ravnanje z odpadki,320,4963,3,11,70,16
+,F41 Gradnja stavb,5504,150196,3,13,46,27
+,F42 Gradnja inženirskih objektov,6285,111665,4,14,80,18
+,F43 Specializirana gradbena dela,14989,437998,3,12,42,29
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9417,154847,3,11,67,16
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",29033,390680,3,10,77,14
+,"G47 Trgovina na drobno, razen z motornimi vozili",53782,896905,5,17,100,17
+,"H49 Kopenski promet, cevovodni transport",14710,341130,3,11,47,23
+,H50 Vodni promet,193,1499,2,7,89,8
+,H51 Zraèni promet,941,8188,4,14,160,9
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,10682,129966,4,14,112,12
+,H53 Poštna in kurirska dejavnost,9919,145090,6,22,147,15
+,I55 Gostinske nastanitvene dejavnosti,8825,186141,5,20,93,21
+,I56 Dejavnost strežbe jedi in pijaè,10829,279734,3,12,47,26
+,J58 Založništvo,3214,33977,4,14,128,11
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",613,7855,2,6,46,13
+,J60 Radijska in televizijska dejavnost,2747,30804,3,12,108,11
+,J61 Telekomunikacijske dejavnosti,7777,62018,4,13,160,8
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",9029,76135,2,7,79,8
+,J63 Druge informacijske dejavnosti,2192,21295,3,12,122,10
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",24119,203244,4,16,187,8
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",9782,82108,4,13,157,8
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2831,31777,3,10,93,11
+,L68 Poslovanje z nepremièninami,2829,41755,3,11,71,15
+,M69 Pravne in raèunovodske dejavnosti,7258,103969,3,10,67,14
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",7316,100181,2,9,64,14
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",9697,118808,2,8,68,12
+,M72 Znanstvena raziskovalna in razvojna dejavnost,8351,67084,3,9,113,8
+,M73 Oglaševanje in raziskovanje trga,2786,25008,2,8,91,9
+,M74 Druge strokovne in tehniène dejavnosti,2065,25983,2,6,49,13
+,M75 Veterinarstvo,553,6854,2,7,59,12
+,N77 Dajanje v najem in zakup,461,7715,3,10,60,17
+,N78 Zaposlovalne dejavnosti,17088,186927,4,13,117,11
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1434,15581,2,8,78,11
+,N80 Varovanje in poizvedovalne dejavnosti,4857,105284,5,18,81,22
+,N81 Dejavnost oskrbe stavb in okolice,6057,147998,5,19,79,24
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2179,41794,4,15,78,19
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",105422,1120413,6,23,213,11
+,P85 Izobraževanje,109717,1011484,4,14,154,9
+,Q86 Zdravstvo,62321,725199,5,18,154,12
+,Q87 Socialno varstvo z nastanitvijo,19929,318792,7,24,150,16
+,Q88 Socialno varstvo brez nastanitve,9450,87527,5,18,196,9
+,R90 Kulturne in razvedrilne dejavnosti,3228,49440,2,8,54,15
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",5627,48192,4,14,161,9
+,R92 Prirejanje iger na sreèo,2821,32876,4,15,131,12
+,R93 Športne in druge dejavnosti za prosti èas,1599,33651,3,11,50,21
+,S94 Dejavnost èlanskih organizacij,3209,34085,2,9,83,11
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,588,8928,2,6,39,15
+,S96 Druge storitvene dejavnosti,4880,104945,3,12,55,22
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),2936,38374,1,3,22,13
+2016,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5564,230545,4,14,35,41
+,B RUDARSTVO,2049,55711,7,24,87,27
+,C PREDELOVALNE DEJAVNOSTI,192620,3127744,5,16,101,16
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",8879,113210,4,15,114,13
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",9181,163591,5,18,99,18
+,F GRADBENIŠTVO,24955,677570,3,12,44,27
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",88914,1485675,4,14,82,17
+,H PROMET IN SKLADIŠÈENJE,33857,609549,3,12,69,18
+,I GOSTINSTVO,20141,474420,4,14,58,24
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,24577,228649,2,9,95,9
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,32873,303345,4,14,151,9
+,L POSLOVANJE Z NEPREMIÈNINAMI,3972,74862,3,12,62,19
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",36123,456757,2,9,67,13
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,34158,555585,4,15,92,16
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",98754,1128653,6,23,198,11
+,P IZOBRAŽEVANJE,108107,1037215,4,14,147,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,92826,1211623,5,20,151,13
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",12238,161931,3,10,79,13
+,S DRUGE DEJAVNOSTI,8066,154137,3,10,53,19
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3827,177710,4,13,28,46
+,A02 Gozdarstvo,1663,51304,6,23,76,31
+,A03 Ribištvo in gojenje vodnih organizmov,74,1531,2,8,37,21
+,B05 Pridobivanje premoga,1189,38395,8,30,92,32
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,4,73,5,18,100,18
+,B08 Pridobivanje rudnin in kamnin,808,16863,5,17,79,21
+,B09 Storitve za rudarstvo,48,380,2,8,98,8
+,C10 Proizvodnja živil,12326,241535,5,18,92,20
+,C11 Proizvodnja pijaè,1552,24736,5,17,104,16
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,2262,49118,5,17,80,22
+,C14 Proizvodnja oblaèil,2520,41173,4,14,84,16
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",6738,82350,6,23,190,12
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",6879,146976,5,17,80,21
+,C17 Proizvodnja papirja in izdelkov iz papirja,4353,79470,5,19,102,18
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,2951,46426,3,12,75,16
+,C19 Proizvodnja koksa in naftnih derivatov,5,51,4,13,125,10
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",6800,102664,4,16,106,15
+,C21 Proizvodnja farmacevtskih surovin in preparatov,12489,122899,5,17,176,10
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,13292,232710,4,16,90,18
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,6247,127556,5,19,93,20
+,C24 Proizvodnja kovin,9711,167565,5,17,101,17
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",26781,485922,4,15,81,18
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",9649,111664,5,16,141,12
+,C27 Proizvodnja elektriènih naprav,22386,356126,5,18,115,16
+,C28 Proizvodnja drugih strojev in naprav,13622,210108,4,16,100,15
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",17254,245828,5,19,136,14
+,C30 Proizvodnja drugih vozil in plovil,865,8006,3,10,108,9
+,C31 Proizvodnja pohištva,4177,80658,4,15,75,19
+,C32 Druge raznovrstne predelovalne dejavnosti,3735,47014,4,13,104,13
+,C33 Popravila in montaža strojev in naprav,6026,117189,3,12,61,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",8879,113210,4,15,114,13
+,"E36 Zbiranje, preèišèevanje in distribucija vode",4090,68296,5,17,101,17
+,E37 Ravnanje z odplakami,349,4572,3,12,88,13
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4392,82122,5,18,98,19
+,E39 Saniranje okolja in drugo ravnanje z odpadki,350,8601,6,22,91,25
+,F41 Gradnja stavb,5023,145880,3,12,42,29
+,F42 Gradnja inženirskih objektov,5604,108088,4,14,74,19
+,F43 Specializirana gradbena dela,14328,423602,3,12,39,30
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9058,155713,3,11,61,17
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",27267,397105,3,10,71,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",52589,932857,5,17,95,18
+,"H49 Kopenski promet, cevovodni transport",13572,329850,3,10,43,24
+,H50 Vodni promet,164,1540,2,7,73,9
+,H51 Zraèni promet,893,8372,4,15,156,9
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,9548,127935,4,13,97,13
+,H53 Poštna in kurirska dejavnost,9680,141852,6,22,149,15
+,I55 Gostinske nastanitvene dejavnosti,8640,177070,5,18,88,21
+,I56 Dejavnost strežbe jedi in pijaè,11501,297350,3,12,46,26
+,J58 Založništvo,2825,31668,4,13,117,11
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",711,6872,1,5,49,10
+,J60 Radijska in televizijska dejavnost,2765,32800,3,12,103,12
+,J61 Telekomunikacijske dejavnosti,6960,61201,4,13,147,9
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",9237,76985,2,6,74,8
+,J63 Druge informacijske dejavnosti,2079,19123,3,10,110,9
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",21359,184478,4,15,174,9
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",8873,82824,4,13,141,9
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2641,36043,3,12,85,14
+,L68 Poslovanje z nepremièninami,3972,74862,3,12,62,19
+,M69 Pravne in raèunovodske dejavnosti,7044,110322,3,10,63,16
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",6759,96335,2,8,56,14
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",9242,127172,2,9,65,14
+,M72 Znanstvena raziskovalna in razvojna dejavnost,7893,64060,2,9,108,8
+,M73 Oglaševanje in raziskovanje trga,2667,23651,2,8,84,9
+,M74 Druge strokovne in tehniène dejavnosti,1939,24288,2,5,42,13
+,M75 Veterinarstvo,579,10929,3,12,61,19
+,N77 Dajanje v najem in zakup,492,7928,3,10,60,16
+,N78 Zaposlovalne dejavnosti,19293,221609,4,13,115,12
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1444,16669,2,9,74,12
+,N80 Varovanje in poizvedovalne dejavnosti,4646,113162,5,18,75,24
+,N81 Dejavnost oskrbe stavb in okolice,5507,144268,5,18,70,26
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,2776,51949,4,15,81,19
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",98754,1128653,6,23,198,11
+,P85 Izobraževanje,108107,1037215,4,14,147,10
+,Q86 Zdravstvo,62506,771965,5,18,148,12
+,Q87 Socialno varstvo z nastanitvijo,21231,344146,7,24,149,16
+,Q88 Socialno varstvo brez nastanitve,9089,95512,5,19,185,11
+,R90 Kulturne in razvedrilne dejavnosti,2934,48903,2,8,48,17
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",5024,48083,4,13,140,10
+,R92 Prirejanje iger na sreèo,2705,33268,4,14,117,12
+,R93 Športne in druge dejavnosti za prosti èas,1575,31677,3,9,45,20
+,S94 Dejavnost èlanskih organizacij,2991,40247,3,10,75,14
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,595,12588,2,8,38,21
+,S96 Druge storitvene dejavnosti,4480,101302,3,11,47,23
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),1679,28426,0,2,12,17
+2017,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5508,233484,4,15,35,42
+,B RUDARSTVO,2288,61931,7,26,95,27
+,C PREDELOVALNE DEJAVNOSTI,207951,3444462,5,17,103,17
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",9444,118232,4,15,121,13
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",9768,194407,6,21,105,20
+,F GRADBENIŠTVO,26500,722060,3,12,45,27
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",98309,1632633,4,15,88,17
+,H PROMET IN SKLADIŠÈENJE,36167,648737,3,13,70,18
+,I GOSTINSTVO,21874,515096,4,14,61,24
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,28258,234913,2,9,106,8
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,35263,312021,4,15,165,9
+,L POSLOVANJE Z NEPREMIÈNINAMI,5015,78688,3,12,76,16
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",39708,476471,2,9,71,12
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,42655,653910,5,16,107,15
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",108136,1195907,7,24,215,11
+,P IZOBRAŽEVANJE,117556,1135331,4,15,155,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,102025,1279639,6,20,162,13
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",13368,189535,3,12,84,14
+,S DRUGE DEJAVNOSTI,9202,170573,3,11,59,19
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,3782,188361,4,14,28,50
+,A02 Gozdarstvo,1634,42263,5,20,76,26
+,A03 Ribištvo in gojenje vodnih organizmov,92,2860,4,16,51,31
+,B05 Pridobivanje premoga,1205,42714,9,33,94,36
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,6,37,3,9,150,6
+,B08 Pridobivanje rudnin in kamnin,1033,18610,5,18,97,18
+,B09 Storitve za rudarstvo,44,570,3,10,80,13
+,C10 Proizvodnja živil,13758,261830,5,19,98,19
+,C11 Proizvodnja pijaè,1412,21946,4,15,95,16
+,C12 Proizvodnja tobaènih izdelkov,-,-,-,-,-,-
+,C13 Proizvodnja tekstilij,2378,48719,4,16,76,21
+,C14 Proizvodnja oblaèil,2302,40246,4,14,79,18
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",6141,81160,7,24,180,13
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",7893,153259,5,17,89,19
+,C17 Proizvodnja papirja in izdelkov iz papirja,4700,84690,5,19,106,18
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,3257,53382,4,13,79,16
+,C19 Proizvodnja koksa in naftnih derivatov,2,59,4,15,50,30
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",7419,107531,4,16,111,15
+,C21 Proizvodnja farmacevtskih surovin in preparatov,13336,142806,5,19,178,11
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,15078,259600,5,16,95,17
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,6106,143652,6,21,90,24
+,C24 Proizvodnja kovin,11017,209236,6,22,113,19
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",28135,497590,4,14,82,18
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",9726,128526,5,18,138,13
+,C27 Proizvodnja elektriènih naprav,26625,419294,6,20,130,16
+,C28 Proizvodnja drugih strojev in naprav,14617,237460,5,16,100,16
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",17589,258308,5,17,119,15
+,C30 Proizvodnja drugih vozil in plovil,1326,12227,4,13,136,9
+,C31 Proizvodnja pohištva,4410,97471,5,17,79,22
+,C32 Druge raznovrstne predelovalne dejavnosti,4493,60831,4,16,114,14
+,C33 Popravila in montaža strojev in naprav,6231,124639,3,12,62,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",9444,118232,4,15,121,13
+,"E36 Zbiranje, preèišèevanje in distribucija vode",4483,77823,5,19,111,17
+,E37 Ravnanje z odplakami,362,7500,5,17,84,21
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4650,103069,6,23,104,22
+,E39 Saniranje okolja in drugo ravnanje z odpadki,273,6015,5,17,76,22
+,F41 Gradnja stavb,5187,148714,3,12,41,29
+,F42 Gradnja inženirskih objektov,6130,126833,4,16,78,21
+,F43 Specializirana gradbena dela,15183,446513,3,12,39,29
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,9847,174920,3,11,64,18
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",30300,441441,3,11,76,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",58162,1016272,5,18,103,18
+,"H49 Kopenski promet, cevovodni transport",13348,337131,3,10,39,25
+,H50 Vodni promet,249,1557,2,7,110,6
+,H51 Zraèni promet,1026,8886,4,14,161,9
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,11302,148643,4,15,110,13
+,H53 Poštna in kurirska dejavnost,10242,152520,6,23,153,15
+,I55 Gostinske nastanitvene dejavnosti,9111,195988,5,19,88,22
+,I56 Dejavnost strežbe jedi in pijaè,12763,319108,3,13,50,25
+,J58 Založništvo,2831,27708,3,12,117,10
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",891,10355,2,7,57,12
+,J60 Radijska in televizijska dejavnost,3271,33864,3,12,118,10
+,J61 Telekomunikacijske dejavnosti,7787,58835,4,13,168,8
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",11084,83440,2,6,83,8
+,J63 Druge informacijske dejavnosti,2394,20711,3,10,118,9
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",22838,190181,4,16,188,8
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",9643,91055,4,15,156,9
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2782,30785,3,10,93,11
+,L68 Poslovanje z nepremièninami,5015,78688,3,12,76,16
+,M69 Pravne in raèunovodske dejavnosti,7663,113267,3,10,69,15
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",7745,103139,2,8,60,13
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",9837,119763,2,8,67,12
+,M72 Znanstvena raziskovalna in razvojna dejavnost,8694,68185,2,9,114,8
+,M73 Oglaševanje in raziskovanje trga,2800,29390,3,9,86,11
+,M74 Druge strokovne in tehniène dejavnosti,2363,32751,2,7,48,14
+,M75 Veterinarstvo,606,9976,3,10,63,17
+,N77 Dajanje v najem in zakup,598,7464,2,8,63,13
+,N78 Zaposlovalne dejavnosti,26136,299127,4,16,137,12
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1606,18848,3,9,77,12
+,N80 Varovanje in poizvedovalne dejavnosti,5026,104328,5,17,83,21
+,N81 Dejavnost oskrbe stavb in okolice,5692,156728,5,20,72,28
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,3597,67415,5,18,94,19
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",108136,1195907,7,24,215,11
+,P85 Izobraževanje,117556,1135331,4,15,155,10
+,Q86 Zdravstvo,68720,799842,5,18,158,12
+,Q87 Socialno varstvo z nastanitvijo,23459,379167,7,26,162,16
+,Q88 Socialno varstvo brez nastanitve,9846,100630,5,20,194,10
+,R90 Kulturne in razvedrilne dejavnosti,3160,60728,3,10,50,19
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",5560,61949,5,17,153,11
+,R92 Prirejanje iger na sreèo,2896,35499,4,16,128,12
+,R93 Športne in druge dejavnosti za prosti èas,1752,31359,2,9,48,18
+,S94 Dejavnost èlanskih organizacij,3418,37104,3,9,84,11
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,618,15325,3,10,39,25
+,S96 Druge storitvene dejavnosti,5166,118144,3,12,52,23
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),1817,24939,-,-,-,-
+2018,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",5820,256131,4,16,37,44
+,B RUDARSTVO,2435,53558,6,23,103,22
+,C PREDELOVALNE DEJAVNOSTI,234927,3840581,5,18,112,16
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",10581,115495,4,15,135,11
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",10502,177701,5,18,108,17
+,F GRADBENIŠTVO,28758,822032,4,13,45,29
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",108088,1813883,4,16,95,17
+,H PROMET IN SKLADIŠÈENJE,38281,734887,4,14,70,19
+,I GOSTINSTVO,24698,594364,4,16,66,24
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,28350,260767,3,9,102,9
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,33923,339239,4,16,160,10
+,L POSLOVANJE Z NEPREMIÈNINAMI,5505,92133,4,14,81,17
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",42825,523466,3,9,74,12
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,47185,755077,5,19,121,16
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",109173,1302663,7,26,218,12
+,P IZOBRAŽEVANJE,125534,1225706,4,16,161,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,107984,1457301,6,23,167,14
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",13701,200775,3,12,84,15
+,S DRUGE DEJAVNOSTI,9782,183590,3,12,61,19
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,4126,215376,4,16,31,52
+,A02 Gozdarstvo,1626,38581,5,17,71,24
+,A03 Ribištvo in gojenje vodnih organizmov,68,2174,3,12,39,32
+,B05 Pridobivanje premoga,1326,32098,7,26,106,24
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,2,2,0,1,50,1
+,B08 Pridobivanje rudnin in kamnin,1055,20425,5,19,98,19
+,B09 Storitve za rudarstvo,52,1033,6,22,111,20
+,C10 Proizvodnja živil,15130,299425,6,21,105,20
+,C11 Proizvodnja pijaè,1581,28366,5,18,103,18
+,C12 Proizvodnja tobaènih izdelkov,10,70,1,4,63,7
+,C13 Proizvodnja tekstilij,3020,68124,6,21,94,23
+,C14 Proizvodnja oblaèil,2447,43540,4,16,87,18
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",7449,85716,7,24,209,12
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",8298,175885,5,19,88,21
+,C17 Proizvodnja papirja in izdelkov iz papirja,5186,105155,6,24,116,20
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,3565,49502,3,12,85,14
+,C19 Proizvodnja koksa in naftnih derivatov,4,69,2,9,50,17
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",8077,120004,5,18,118,15
+,C21 Proizvodnja farmacevtskih surovin in preparatov,15906,158099,5,20,197,10
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,16777,283447,5,17,102,17
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,6507,139001,5,20,92,21
+,C24 Proizvodnja kovin,12918,237819,6,23,126,18
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",31970,559938,4,16,89,18
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",11270,123318,5,17,155,11
+,C27 Proizvodnja elektriènih naprav,28737,471291,6,22,134,16
+,C28 Proizvodnja drugih strojev in naprav,16628,255691,5,17,110,15
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",21150,304789,5,19,134,14
+,C30 Proizvodnja drugih vozil in plovil,1445,14019,4,14,146,10
+,C31 Proizvodnja pohištva,4677,103743,5,18,81,22
+,C32 Druge raznovrstne predelovalne dejavnosti,4997,63773,4,16,121,13
+,C33 Popravila in montaža strojev in naprav,7178,149797,4,14,66,21
+,"D35 Oskrba z elektrièno energijo, plinom in paro",10581,115495,4,15,135,11
+,"E36 Zbiranje, preèišèevanje in distribucija vode",4974,81522,5,19,117,16
+,E37 Ravnanje z odplakami,452,8788,5,19,99,19
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4705,82634,5,18,101,18
+,E39 Saniranje okolja in drugo ravnanje z odpadki,371,4757,4,13,101,13
+,F41 Gradnja stavb,6005,185184,4,13,42,31
+,F42 Gradnja inženirskih objektov,6053,116501,4,14,74,19
+,F43 Specializirana gradbena dela,16700,520347,3,12,40,31
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,10465,178763,3,11,66,17
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",31886,472634,3,12,78,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",65737,1162486,6,20,114,18
+,"H49 Kopenski promet, cevovodni transport",14394,380978,3,11,40,27
+,H50 Vodni promet,222,2138,3,9,96,10
+,H51 Zraèni promet,1160,11385,4,15,156,10
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,11641,169265,4,16,110,15
+,H53 Poštna in kurirska dejavnost,10864,171121,7,26,164,16
+,I55 Gostinske nastanitvene dejavnosti,10272,215758,5,20,95,21
+,I56 Dejavnost strežbe jedi in pijaè,14426,378606,4,14,55,26
+,J58 Založništvo,2649,29115,3,12,113,11
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",1004,12608,2,8,61,13
+,J60 Radijska in televizijska dejavnost,3397,33617,3,12,122,10
+,J61 Telekomunikacijske dejavnosti,6982,68275,4,15,152,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",11828,95652,2,7,82,8
+,J63 Druge informacijske dejavnosti,2490,21500,3,10,117,9
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",22019,205553,5,17,183,9
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",9345,94285,4,15,150,10
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2559,39401,4,13,86,15
+,L68 Poslovanje z nepremièninami,5505,92133,4,14,81,17
+,M69 Pravne in raèunovodske dejavnosti,7602,103232,3,9,69,14
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",8353,134068,3,10,62,16
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",10784,130897,2,8,69,12
+,M72 Znanstvena raziskovalna in razvojna dejavnost,9741,76011,3,9,117,8
+,M73 Oglaševanje in raziskovanje trga,3100,29299,2,9,90,10
+,M74 Druge strokovne in tehniène dejavnosti,2512,36461,2,7,50,15
+,M75 Veterinarstvo,733,13498,4,14,74,18
+,N77 Dajanje v najem in zakup,650,16543,4,15,61,26
+,N78 Zaposlovalne dejavnosti,28179,312910,5,19,168,11
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",1831,18796,2,8,81,10
+,N80 Varovanje in poizvedovalne dejavnosti,5352,132957,6,22,90,25
+,N81 Dejavnost oskrbe stavb in okolice,6817,190282,6,21,75,28
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,4356,83589,6,21,111,19
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",109173,1302663,7,26,218,12
+,P85 Izobraževanje,125534,1225706,4,16,161,10
+,Q86 Zdravstvo,73226,900969,6,20,162,12
+,Q87 Socialno varstvo z nastanitvijo,24484,437841,8,30,169,18
+,Q88 Socialno varstvo brez nastanitve,10274,118491,6,22,194,12
+,R90 Kulturne in razvedrilne dejavnosti,3313,68553,3,10,50,21
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",5681,55522,4,15,157,10
+,R92 Prirejanje iger na sreèo,2758,36727,4,16,121,13
+,R93 Športne in druge dejavnosti za prosti èas,1949,39973,3,11,52,21
+,S94 Dejavnost èlanskih organizacij,3463,42641,3,10,83,12
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,654,15576,3,10,41,24
+,S96 Druge storitvene dejavnosti,5665,125373,3,12,55,22
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),1975,31581,-,-,-,-
+2019,"A KMETIJSTVO IN LOV, GOZDARSTVO, RIBIŠTVO",6187,286032,5,18,39,46
+,B RUDARSTVO,2666,68166,8,29,112,26
+,C PREDELOVALNE DEJAVNOSTI,260552,4272735,6,20,123,16
+,"D OSKRBA Z ELEKTRIÈNO ENERGIJO, PLINOM IN PARO",11330,124667,4,16,145,11
+,"E OSKRBA Z VODO, RAVNANJE Z ODPLAKAMI IN ODPADKI, SANIRANJE OKOLJA",11327,197344,6,21,119,17
+,F GRADBENIŠTVO,31490,916701,4,13,45,29
+,"G TRGOVINA, VZDRŽEVANJE IN POPRAVILA MOTORNIH VOZIL",119209,2013490,5,17,103,17
+,H PROMET IN SKLADIŠÈENJE,41463,806977,4,15,75,20
+,I GOSTINSTVO,27001,653483,5,17,70,24
+,J INFORMACIJSKE IN KOMUNIKACIJSKE DEJAVNOSTI,30855,294415,3,10,107,10
+,K FINANÈNE IN ZAVAROVALNIŠKE DEJAVNOSTI,34722,346279,5,17,166,10
+,L POSLOVANJE Z NEPREMIÈNINAMI,5734,97365,4,14,84,17
+,"M STROKOVNE, ZNANSTVENE IN TEHNIÈNE DEJAVNOSTI",46794,598945,3,10,78,13
+,N DRUGE RAZNOVRSTNE POSLOVNE DEJAVNOSTI,47919,822220,6,21,123,17
+,"O* DEJAVNOST JAVNE UPRAVE IN OBRAMBE, DEJAVNOST OBVEZNE SOCIALNE VARNOSTI*",114100,1331521,7,26,226,12
+,P IZOBRAŽEVANJE,136187,1367041,5,17,171,10
+,Q ZDRAVSTVO IN SOCIALNO VARSTVO,117354,1557911,6,23,176,13
+,"R KULTURNE, RAZVEDRILNE IN REKREACIJSKE DEJAVNOSTI",14501,219925,4,13,87,15
+,S DRUGE DEJAVNOSTI,10783,235737,4,14,63,22
+,"T DEJAVNOST GOSPODINJSTEV Z ZAPOSLENIM HIŠNIM OSEBJEM, PROIZVODNJA ZA LASTNO RABO",-,-,-,-,-,-
+,U DEJAVNOST EKSTERITORIALNIH ORGANIZACIJ IN TELES,-,-,-,-,-,-
+,A01 Kmetijska proizvodnja in lov ter z njima povezane storitve,4471,234028,5,18,33,52
+,A02 Gozdarstvo,1623,48619,6,22,73,30
+,A03 Ribištvo in gojenje vodnih organizmov,93,3385,5,19,51,36
+,B05 Pridobivanje premoga,1379,45114,10,38,115,33
+,B06 Pridobivanje surove nafte in zemeljskega plina,-,-,-,-,-,-
+,B07 Pridobivanje rud,10,35,2,9,250,4
+,B08 Pridobivanje rudnin in kamnin,1175,22123,5,19,103,19
+,B09 Storitve za rudarstvo,102,894,6,22,249,9
+,C10 Proizvodnja živil,16629,329451,6,22,111,20
+,C11 Proizvodnja pijaè,1806,26160,5,17,115,15
+,C12 Proizvodnja tobaènih izdelkov,19,127,7,25,380,7
+,C13 Proizvodnja tekstilij,3220,64295,6,20,102,20
+,C14 Proizvodnja oblaèil,2819,52681,6,21,113,19
+,"C15 Proizvodnja usnja, usnjenih in sorodnih izdelkov",7565,107028,9,34,236,14
+,"C16 Obdelava in predelava lesa, proizvodnja izdelkov iz lesa,",9412,217651,6,23,98,23
+,C17 Proizvodnja papirja in izdelkov iz papirja,5549,97058,6,22,125,18
+,C18 Tiskarstvo in razmnoževanje posnetih nosilcev zapisa,3864,60975,4,15,93,16
+,C19 Proizvodnja koksa in naftnih derivatov,2,10,0,1,25,5
+,"C20 Proizvodnja kemikalij, kemiènih izdelkov",8796,118964,5,17,127,14
+,C21 Proizvodnja farmacevtskih surovin in preparatov,18635,180804,6,21,214,10
+,C22 Proizvodnja izdelkov iz gume in plastiènih mas,19117,311265,5,19,116,16
+,C23 Proizvodnja nekovinskih mineralnih izdelkov,7379,151794,6,22,108,21
+,C24 Proizvodnja kovin,14287,239934,7,24,141,17
+,"C25 Proizvodnja kovinskih izdelkov, razen strojev in naprav",35371,668616,5,18,96,19
+,"C26 Proizvodnja raèunalnikov, elektronskih in optiènih izdelkov",12857,157030,6,22,183,12
+,C27 Proizvodnja elektriènih naprav,31333,522839,7,25,148,17
+,C28 Proizvodnja drugih strojev in naprav,19033,277206,5,18,123,15
+,"C29 Proizvodnja motornih vozil, prikolic in polprikolic",23077,336934,6,21,142,15
+,C30 Proizvodnja drugih vozil in plovil,1456,12734,4,13,148,9
+,C31 Proizvodnja pohištva,4937,110380,5,19,87,22
+,C32 Druge raznovrstne predelovalne dejavnosti,5600,69649,5,17,134,12
+,C33 Popravila in montaža strojev in naprav,7789,159150,4,14,70,20
+,"D35 Oskrba z elektrièno energijo, plinom in paro",11330,124667,4,16,145,11
+,"E36 Zbiranje, preèišèevanje in distribucija vode",5349,88607,6,21,126,17
+,E37 Ravnanje z odplakami,635,13555,6,22,102,21
+,"E38 Zbiranje in odvoz odpadkov ter ravnanje z njimi, pridobivanj",4946,88912,6,20,113,18
+,E39 Saniranje okolja in drugo ravnanje z odpadki,397,6270,6,21,133,16
+,F41 Gradnja stavb,6499,204920,4,13,42,32
+,F42 Gradnja inženirskih objektov,6780,139442,4,16,77,21
+,F43 Specializirana gradbena dela,18211,572339,3,13,40,31
+,G45 Trgovina z motornimi vozili in popravila motornih vozil,11690,202653,3,13,72,17
+,"G46 Posredništvo in trgovina na debelo, razen z motornimi vozili",34950,514516,3,13,85,15
+,"G47 Trgovina na drobno, razen z motornimi vozili",72569,1296321,6,22,123,18
+,"H49 Kopenski promet, cevovodni transport",15456,428755,3,12,42,28
+,H50 Vodni promet,197,4014,5,17,82,20
+,H51 Zraèni promet,980,12625,11,41,320,13
+,H52 Skladišèenje in spremljajoèe prometne dejavnosti,13333,174134,4,16,123,13
+,H53 Poštna in kurirska dejavnost,11497,187449,7,27,163,16
+,I55 Gostinske nastanitvene dejavnosti,11133,252223,6,23,100,23
+,I56 Dejavnost strežbe jedi in pijaè,15868,401260,4,15,58,25
+,J58 Založništvo,2731,34289,4,15,118,13
+,"J59 Dejavnosti v zvezi s filmi, video- in zvoènimi zapisi",1079,13586,2,8,63,13
+,J60 Radijska in televizijska dejavnost,3765,39783,4,14,136,11
+,J61 Telekomunikacijske dejavnosti,7065,69511,4,15,154,10
+,"J62 Raèunalniško programiranje, svetovanje in druge s tem…",13478,114948,2,8,88,9
+,J63 Druge informacijske dejavnosti,2737,22298,3,10,121,8
+,"K64 Dejavnosti finanènih storitev, razen zavarovalništva in deja",22283,211933,5,18,190,10
+,"K65 Dejavnosti zavarovanja, pozavarovanja in pokojninskih sklado",9614,99106,4,16,155,10
+,K66 Pomožne dejavnosti za finanène in zavarovalniške storitve,2825,35240,3,12,94,13
+,L68 Poslovanje z nepremièninami,5734,97365,4,14,84,17
+,M69 Pravne in raèunovodske dejavnosti,7885,117964,3,11,71,15
+,"M70 Dejavnost uprav podjetij, podjetniško in poslovno svetovanje",8944,146268,3,11,65,16
+,"M71 Arhitekturno in tehnièno projektiranje, tehnièno preizkušanj",11997,145871,3,9,74,12
+,M72 Znanstvena raziskovalna in razvojna dejavnost,11169,97479,3,11,128,9
+,M73 Oglaševanje in raziskovanje trga,3224,37877,3,10,86,12
+,M74 Druge strokovne in tehniène dejavnosti,2847,41123,2,8,54,14
+,M75 Veterinarstvo,728,12363,3,12,70,17
+,N77 Dajanje v najem in zakup,856,13977,4,13,78,16
+,N78 Zaposlovalne dejavnosti,27018,308964,5,19,168,11
+,"N79 Dejavnost potovalnih agencij, organizatorjev potovanj in s p",2102,22528,3,10,88,11
+,N80 Varovanje in poizvedovalne dejavnosti,5585,148746,7,24,92,27
+,N81 Dejavnost oskrbe stavb in okolice,7896,236088,7,25,84,30
+,N82 Pisarniške in spremljajoèe poslovne storitvene dejavnosti,4462,91917,7,24,116,21
+,"O84* Dejavnost javne uprave in obrambe, dejavnost obvezne socialne varnosti*",114100,1331521,7,26,226,12
+,P85 Izobraževanje,136187,1367041,5,17,171,10
+,Q86 Zdravstvo,80671,949502,6,21,175,12
+,Q87 Socialno varstvo z nastanitvijo,25643,481827,9,33,175,19
+,Q88 Socialno varstvo brez nastanitve,11040,126582,6,22,193,12
+,R90 Kulturne in razvedrilne dejavnosti,3481,63930,3,10,52,18
+,"R91 Dejavnost knjižnic, arhivov, muzejev in druge kulturne dejav.",6097,67283,5,18,166,11
+,R92 Prirejanje iger na sreèo,2875,45545,6,21,131,16
+,R93 Športne in druge dejavnosti za prosti èas,2048,43167,3,11,52,21
+,S94 Dejavnost èlanskih organizacij,3906,52964,3,10,76,14
+,S95 Popravila raèunalnikov in izdelkov za široko rabo,752,23655,4,15,47,32
+,S96 Druge storitvene dejavnosti,6125,159118,4,15,58,26
+,T97 Dejavnost gospodinjstev z zaposlenim hišnim osebjem,-,-,-,-,-,-
+,T98 Raznovrstna proizvodnja gospodinjstev za lastno rabo,-,-,-,-,-,-
+,U99 Dejavnost eksteritorialnih organizacij in teles,-,-,-,-,-,-
+,00 Ostalo (veèinoma zaposleni v tujini pri tujem delodajalcu),2220,31376,3,10,67,14
+,,,,,,,
+"Pojasnilo (*)
+- V dejavnosti O so od leta 2011 vkljuèene brezposelne osebe iz vseh dejavnosti, ki so imele pravico do denarnega nadomestila za èas zaèasne nezmožnosti za delo. Najveè primerov je bilo v letih 2010-2012. ZUJF z dne 31. 5. 2012 ukinja to pravico, razen v primerih že zaèetih postopkov za uveljavljanje pravice.",,,,,,,
+"Povezane vsebine:
+- <A class=seznam HREF=/docs/3_3f_BS_2016.pdf target=_blank>Metodološka pojasnila</A>
+",,,,,,,
+,,,,,,,
+Zadnja posodobitev:,,,,,,,
+20200930 09:00,,,,,,,
+,,,,,,,
+Vir podatkov:,,,,,,,
+NIJZ,,,,,,,
+,,,,,,,
+Kontakt:,,,,,,,
+"Blaženka Jeren, NIJZ",,,,,,,
++386 (01) 2441 501,,,,,,,
+<a href='mailto:blazenka.jeren@nijz.si'>blazenka.jeren@nijz.si</a>,,,,,,,
+,,,,,,,
+Avtorske pravice,,,,,,,
+,,,,,,,
+Enote:,,,,,,,
+Primeri,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Zbirka podatkov:,,,,,,,
+"NIJZ 3 - Evidenca zaèasne odsotnosti z dela zaradi bolezni, poškodb in drugih vzrokov (BS)",,,,,,,
+,,,,,,,
+Kratko ime:,,,,,,,
+10700004,,,,,,,
